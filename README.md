@@ -46,7 +46,7 @@ ___
 
 ## 🛠️ Skills & Tools Used
 
-- **Programming & Data Handling**
+- **Programming & Data Handling:**
 
   - **Python:** Pandas, NumPy for data cleaning, feature extraction, and transformation.​
 
